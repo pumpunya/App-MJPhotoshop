@@ -48,7 +48,7 @@ class Payment2Fragment : Fragment() {
     var btnpayment2: Button? = null
     var idbooking: String? = null
     var bookingID: String? = null
-
+    var bookingID1: String? = null
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
